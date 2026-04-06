@@ -1,0 +1,62 @@
+name: Daily Fetch Vietlott
+
+on:
+  schedule:
+    # Chạy lúc 21:00 giờ Việt Nam (14:00 UTC) mỗi ngày
+    - cron: "0 14 * * *"
+  workflow_dispatch:
+    inputs:
+      game:
+        description: "Loại game (mega645/power655/loto535/max3d/max3dpro/keno/bingo18 hoặc để trống = tất cả)"
+        required: false
+        default: ""
+      page_size:
+        description: "Số kỳ quay mỗi lần lấy"
+        required: false
+        default: "20"
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-vietlott:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create data directories
+        run: |
+          mkdir -p data/mega645 data/power655 data/loto535
+          mkdir -p data/max3d data/max3dpro data/keno data/bingo18
+
+      - name: Fetch Vietlott data
+        run: |
+          GAME="${{ github.event.inputs.game }}"
+          SIZE="${{ github.event.inputs.page_size }}"
+          SIZE=${SIZE:-20}
+          if [ -n "$GAME" ]; then
+            python src/main.py --game "$GAME" --page-size "$SIZE"
+          else
+            python src/main.py --page-size "$SIZE"
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore(data): update Vietlott $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
+          git push

@@ -1,0 +1,60 @@
+name: Backfill Historical Vietlott
+
+on:
+  workflow_dispatch:
+    inputs:
+      game:
+        description: "Loại game (mega645/power655/loto535/max3d/max3dpro/keno/bingo18 hoặc để trống = tất cả)"
+        required: false
+        default: ""
+      delay:
+        description: "Thời gian chờ giữa các trang (giây)"
+        required: false
+        default: "2.0"
+
+permissions:
+  contents: write
+
+jobs:
+  backfill-vietlott:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Create data directories
+        run: |
+          mkdir -p data/mega645 data/power655 data/loto535
+          mkdir -p data/max3d data/max3dpro data/keno data/bingo18
+
+      - name: Backfill all history
+        run: |
+          GAME="${{ github.event.inputs.game }}"
+          DELAY="${{ github.event.inputs.delay }}"
+          DELAY=${DELAY:-2.0}
+          if [ -n "$GAME" ]; then
+            python src/main.py --game "$GAME" --all --delay "$DELAY"
+          else
+            python src/main.py --all --delay "$DELAY"
+          fi
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore(data): backfill Vietlott $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
+          git push
