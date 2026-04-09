@@ -188394,5 +188394,44 @@
     "sixth": "74, 84, 22",
     "seventh": "78",
     "eighth": "35"
+  },
+  {
+    "date": "2026-04-09",
+    "station": "Bình Định",
+    "special": "00",
+    "first": "44",
+    "second": "52",
+    "third": "47, 11",
+    "fourth": "45, 34, 86, 98, 20, 61, 63",
+    "fifth": "19",
+    "sixth": "37, 89, 20",
+    "seventh": "34",
+    "eighth": "62"
+  },
+  {
+    "date": "2026-04-09",
+    "station": "Quảng Bình",
+    "special": "40",
+    "first": "24",
+    "second": "03",
+    "third": "51, 15",
+    "fourth": "84, 95, 19, 83, 71, 30, 53",
+    "fifth": "74",
+    "sixth": "82, 23, 97",
+    "seventh": "34",
+    "eighth": "16"
+  },
+  {
+    "date": "2026-04-09",
+    "station": "Quảng Trị",
+    "special": "68",
+    "first": "28",
+    "second": "14",
+    "third": "58, 36",
+    "fourth": "07, 21, 34, 38, 85, 14, 05",
+    "fifth": "89",
+    "sixth": "71, 32, 39",
+    "seventh": "04",
+    "eighth": "34"
   }
 ]
