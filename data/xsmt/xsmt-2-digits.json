@@ -189759,5 +189759,31 @@
     "sixth": "70, 04, 36",
     "seventh": "94",
     "eighth": "38"
+  },
+  {
+    "date": "2026-05-25",
+    "station": "Phú Yên",
+    "special": "04",
+    "first": "93",
+    "second": "37",
+    "third": "84, 37",
+    "fourth": "96, 39, 82, 06, 51, 04, 01",
+    "fifth": "01",
+    "sixth": "83, 73, 51",
+    "seventh": "76",
+    "eighth": "72"
+  },
+  {
+    "date": "2026-05-25",
+    "station": "Thừa Thiên Huế",
+    "special": "54",
+    "first": "22",
+    "second": "67",
+    "third": "99, 16",
+    "fourth": "13, 11, 48, 39, 20, 88, 77",
+    "fifth": "14",
+    "sixth": "18, 52, 97",
+    "seventh": "18",
+    "eighth": "49"
   }
 ]
