@@ -190110,5 +190110,44 @@
     "sixth": "41, 67, 01",
     "seventh": "04",
     "eighth": "58"
+  },
+  {
+    "date": "2026-06-07",
+    "station": "Khánh Hòa",
+    "special": "36",
+    "first": "01",
+    "second": "88",
+    "third": "97, 85",
+    "fourth": "77, 50, 34, 85, 99, 97, 84",
+    "fifth": "77",
+    "sixth": "24, 53, 52",
+    "seventh": "74",
+    "eighth": "88"
+  },
+  {
+    "date": "2026-06-07",
+    "station": "Kon Tum",
+    "special": "74",
+    "first": "86",
+    "second": "26",
+    "third": "42, 39",
+    "fourth": "91, 18, 05, 99, 17, 17, 40",
+    "fifth": "88",
+    "sixth": "01, 11, 09",
+    "seventh": "54",
+    "eighth": "99"
+  },
+  {
+    "date": "2026-06-07",
+    "station": "Thừa Thiên Huế",
+    "special": "79",
+    "first": "23",
+    "second": "38",
+    "third": "91, 85",
+    "fourth": "85, 05, 26, 20, 91, 20, 82",
+    "fifth": "92",
+    "sixth": "58, 47, 28",
+    "seventh": "28",
+    "eighth": "82"
   }
 ]
