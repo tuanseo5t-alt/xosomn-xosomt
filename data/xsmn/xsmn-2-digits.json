@@ -270372,5 +270372,44 @@
     "sixth": "85, 98, 72",
     "seventh": "81",
     "eighth": "93"
+  },
+  {
+    "date": "2026-07-03",
+    "station": "Bình Dương",
+    "special": "12",
+    "first": "34",
+    "second": "72",
+    "third": "66, 21",
+    "fourth": "41, 85, 03, 47, 67, 51, 52",
+    "fifth": "15",
+    "sixth": "73, 69, 22",
+    "seventh": "55",
+    "eighth": "22"
+  },
+  {
+    "date": "2026-07-03",
+    "station": "Trà Vinh",
+    "special": "17",
+    "first": "62",
+    "second": "33",
+    "third": "11, 14",
+    "fourth": "47, 28, 25, 58, 45, 56, 31",
+    "fifth": "95",
+    "sixth": "30, 76, 04",
+    "seventh": "67",
+    "eighth": "01"
+  },
+  {
+    "date": "2026-07-03",
+    "station": "Vĩnh Long",
+    "special": "34",
+    "first": "99",
+    "second": "36",
+    "third": "42, 13",
+    "fourth": "77, 18, 78, 63, 20, 33, 96",
+    "fifth": "96",
+    "sixth": "30, 55, 78",
+    "seventh": "58",
+    "eighth": "57"
   }
 ]
