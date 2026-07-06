@@ -270502,5 +270502,44 @@
     "sixth": "74, 02, 06",
     "seventh": "70",
     "eighth": "52"
+  },
+  {
+    "date": "2026-07-06",
+    "station": "Cà Mau",
+    "special": "23",
+    "first": "52",
+    "second": "79",
+    "third": "82, 50",
+    "fourth": "83, 57, 42, 23, 30, 83, 90",
+    "fifth": "04",
+    "sixth": "07, 32, 81",
+    "seventh": "81",
+    "eighth": "46"
+  },
+  {
+    "date": "2026-07-06",
+    "station": "Hồ Chí Minh",
+    "special": "48",
+    "first": "17",
+    "second": "56",
+    "third": "40, 28",
+    "fourth": "01, 14, 35, 18, 19, 21, 30",
+    "fifth": "42",
+    "sixth": "56, 46, 10",
+    "seventh": "15",
+    "eighth": "33"
+  },
+  {
+    "date": "2026-07-06",
+    "station": "Đồng Tháp",
+    "special": "52",
+    "first": "22",
+    "second": "57",
+    "third": "99, 05",
+    "fourth": "80, 13, 96, 36, 39, 44, 38",
+    "fifth": "62",
+    "sixth": "59, 96, 58",
+    "seventh": "42",
+    "eighth": "27"
   }
 ]
