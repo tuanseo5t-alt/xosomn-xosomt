@@ -270905,5 +270905,44 @@
     "sixth": "19, 81, 18",
     "seventh": "67",
     "eighth": "70"
+  },
+  {
+    "date": "2026-07-17",
+    "station": "Bình Dương",
+    "special": "91",
+    "first": "41",
+    "second": "94",
+    "third": "83, 08",
+    "fourth": "41, 43, 77, 65, 95, 23, 85",
+    "fifth": "27",
+    "sixth": "08, 30, 80",
+    "seventh": "64",
+    "eighth": "50"
+  },
+  {
+    "date": "2026-07-17",
+    "station": "Trà Vinh",
+    "special": "24",
+    "first": "89",
+    "second": "85",
+    "third": "56, 66",
+    "fourth": "97, 25, 92, 42, 17, 73, 20",
+    "fifth": "38",
+    "sixth": "79, 99, 75",
+    "seventh": "31",
+    "eighth": "23"
+  },
+  {
+    "date": "2026-07-17",
+    "station": "Vĩnh Long",
+    "special": "58",
+    "first": "14",
+    "second": "20",
+    "third": "51, 54",
+    "fourth": "24, 71, 03, 29, 71, 05, 11",
+    "fifth": "67",
+    "sixth": "81, 07, 01",
+    "seventh": "89",
+    "eighth": "33"
   }
 ]
