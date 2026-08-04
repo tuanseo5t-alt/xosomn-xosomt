@@ -191943,5 +191943,31 @@
     "sixth": "97, 68, 26",
     "seventh": "32",
     "eighth": "04"
+  },
+  {
+    "date": "2026-08-04",
+    "station": "Quảng Nam",
+    "special": "20",
+    "first": "71",
+    "second": "79",
+    "third": "83, 37",
+    "fourth": "52, 63, 80, 00, 16, 32, 94",
+    "fifth": "11",
+    "sixth": "04, 82, 36",
+    "seventh": "93",
+    "eighth": "57"
+  },
+  {
+    "date": "2026-08-04",
+    "station": "Đắk Lắk",
+    "special": "82",
+    "first": "18",
+    "second": "25",
+    "third": "04, 56",
+    "fourth": "39, 35, 60, 86, 55, 56, 31",
+    "fifth": "54",
+    "sixth": "94, 83, 76",
+    "seventh": "80",
+    "eighth": "46"
   }
 ]
