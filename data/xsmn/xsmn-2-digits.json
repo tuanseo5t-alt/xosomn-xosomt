@@ -271763,5 +271763,44 @@
     "sixth": "44, 90, 96",
     "seventh": "05",
     "eighth": "41"
+  },
+  {
+    "date": "2026-08-07",
+    "station": "Bình Dương",
+    "special": "74",
+    "first": "34",
+    "second": "95",
+    "third": "17, 12",
+    "fourth": "01, 76, 47, 70, 68, 33, 27",
+    "fifth": "96",
+    "sixth": "69, 72, 27",
+    "seventh": "85",
+    "eighth": "39"
+  },
+  {
+    "date": "2026-08-07",
+    "station": "Trà Vinh",
+    "special": "82",
+    "first": "55",
+    "second": "97",
+    "third": "76, 44",
+    "fourth": "17, 84, 52, 54, 23, 86, 85",
+    "fifth": "01",
+    "sixth": "17, 78, 61",
+    "seventh": "39",
+    "eighth": "21"
+  },
+  {
+    "date": "2026-08-07",
+    "station": "Vĩnh Long",
+    "special": "40",
+    "first": "19",
+    "second": "13",
+    "third": "73, 33",
+    "fourth": "24, 22, 57, 46, 61, 26, 83",
+    "fifth": "45",
+    "sixth": "71, 82, 63",
+    "seventh": "78",
+    "eighth": "99"
   }
 ]
