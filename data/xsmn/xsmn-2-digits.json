@@ -271802,5 +271802,57 @@
     "sixth": "71, 82, 63",
     "seventh": "78",
     "eighth": "99"
+  },
+  {
+    "date": "2026-08-08",
+    "station": "Bình Phước",
+    "special": "43",
+    "first": "97",
+    "second": "84",
+    "third": "63, 57",
+    "fourth": "91, 00, 56, 39, 52, 59, 33",
+    "fifth": "70",
+    "sixth": "91, 47, 58",
+    "seventh": "04",
+    "eighth": "88"
+  },
+  {
+    "date": "2026-08-08",
+    "station": "Hậu Giang",
+    "special": "11",
+    "first": "74",
+    "second": "96",
+    "third": "01, 38",
+    "fourth": "90, 95, 68, 52, 95, 16, 25",
+    "fifth": "14",
+    "sixth": "61, 41, 98",
+    "seventh": "63",
+    "eighth": "59"
+  },
+  {
+    "date": "2026-08-08",
+    "station": "Hồ Chí Minh",
+    "special": "39",
+    "first": "22",
+    "second": "55",
+    "third": "75, 68",
+    "fourth": "70, 47, 04, 70, 29, 07, 11",
+    "fifth": "51",
+    "sixth": "27, 37, 24",
+    "seventh": "38",
+    "eighth": "10"
+  },
+  {
+    "date": "2026-08-08",
+    "station": "Long An",
+    "special": "95",
+    "first": "94",
+    "second": "14",
+    "third": "17, 89",
+    "fourth": "54, 84, 54, 35, 18, 05, 93",
+    "fifth": "40",
+    "sixth": "52, 79, 84",
+    "seventh": "45",
+    "eighth": "50"
   }
 ]
