@@ -272829,5 +272829,44 @@
     "sixth": "01, 08, 72",
     "seventh": "04",
     "eighth": "79"
+  },
+  {
+    "date": "2026-09-03",
+    "station": "An Giang",
+    "special": "14",
+    "first": "66",
+    "second": "96",
+    "third": "02, 88",
+    "fourth": "38, 28, 83, 40, 80, 99, 78",
+    "fifth": "40",
+    "sixth": "85, 47, 19",
+    "seventh": "04",
+    "eighth": "58"
+  },
+  {
+    "date": "2026-09-03",
+    "station": "Bình Thuận",
+    "special": "16",
+    "first": "57",
+    "second": "68",
+    "third": "91, 18",
+    "fourth": "12, 23, 43, 82, 70, 93, 42",
+    "fifth": "20",
+    "sixth": "01, 02, 87",
+    "seventh": "03",
+    "eighth": "54"
+  },
+  {
+    "date": "2026-09-03",
+    "station": "Tây Ninh",
+    "special": "86",
+    "first": "23",
+    "second": "30",
+    "third": "35, 27",
+    "fourth": "98, 83, 84, 12, 31, 19, 33",
+    "fifth": "90",
+    "sixth": "29, 80, 57",
+    "seventh": "67",
+    "eighth": "78"
   }
 ]
