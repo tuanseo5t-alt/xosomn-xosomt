@@ -273076,5 +273076,44 @@
     "sixth": "94, 28, 29",
     "seventh": "06",
     "eighth": "78"
+  },
+  {
+    "date": "2026-09-09",
+    "station": "Cần Thơ",
+    "special": "11",
+    "first": "35",
+    "second": "95",
+    "third": "54, 92",
+    "fourth": "04, 19, 56, 28, 99, 23, 63",
+    "fifth": "21",
+    "sixth": "65, 74, 09",
+    "seventh": "36",
+    "eighth": "31"
+  },
+  {
+    "date": "2026-09-09",
+    "station": "Sóc Trăng",
+    "special": "25",
+    "first": "86",
+    "second": "67",
+    "third": "64, 81",
+    "fourth": "10, 28, 84, 04, 35, 80, 29",
+    "fifth": "85",
+    "sixth": "80, 37, 77",
+    "seventh": "74",
+    "eighth": "35"
+  },
+  {
+    "date": "2026-09-09",
+    "station": "Đồng Nai",
+    "special": "46",
+    "first": "90",
+    "second": "51",
+    "third": "81, 49",
+    "fourth": "45, 90, 61, 88, 63, 93, 74",
+    "fifth": "10",
+    "sixth": "55, 86, 50",
+    "seventh": "76",
+    "eighth": "59"
   }
 ]
