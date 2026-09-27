@@ -273817,5 +273817,44 @@
     "sixth": "10, 27, 94",
     "seventh": "20",
     "eighth": "13"
+  },
+  {
+    "date": "2026-09-27",
+    "station": "Kiên Giang",
+    "special": "78",
+    "first": "80",
+    "second": "90",
+    "third": "95, 81",
+    "fourth": "02, 92, 45, 96, 31, 00, 40",
+    "fifth": "18",
+    "sixth": "93, 79, 33",
+    "seventh": "42",
+    "eighth": "76"
+  },
+  {
+    "date": "2026-09-27",
+    "station": "Tiền Giang",
+    "special": "24",
+    "first": "92",
+    "second": "96",
+    "third": "15, 01",
+    "fourth": "08, 43, 86, 85, 79, 55, 15",
+    "fifth": "18",
+    "sixth": "74, 28, 01",
+    "seventh": "89",
+    "eighth": "43"
+  },
+  {
+    "date": "2026-09-27",
+    "station": "Đà Lạt",
+    "special": "02",
+    "first": "41",
+    "second": "33",
+    "third": "71, 29",
+    "fourth": "87, 31, 11, 83, 39, 52, 29",
+    "fifth": "06",
+    "sixth": "31, 65, 59",
+    "seventh": "48",
+    "eighth": "95"
   }
 ]
