@@ -273973,5 +273973,44 @@
     "sixth": "83, 29, 80",
     "seventh": "56",
     "eighth": "87"
+  },
+  {
+    "date": "2026-10-01",
+    "station": "An Giang",
+    "special": "73",
+    "first": "82",
+    "second": "55",
+    "third": "05, 07",
+    "fourth": "46, 00, 93, 23, 54, 15, 23",
+    "fifth": "77",
+    "sixth": "12, 49, 86",
+    "seventh": "40",
+    "eighth": "69"
+  },
+  {
+    "date": "2026-10-01",
+    "station": "Bình Thuận",
+    "special": "46",
+    "first": "96",
+    "second": "60",
+    "third": "79, 47",
+    "fourth": "24, 52, 17, 61, 85, 77, 21",
+    "fifth": "49",
+    "sixth": "07, 03, 96",
+    "seventh": "61",
+    "eighth": "00"
+  },
+  {
+    "date": "2026-10-01",
+    "station": "Tây Ninh",
+    "special": "13",
+    "first": "77",
+    "second": "31",
+    "third": "06, 13",
+    "fourth": "46, 78, 98, 66, 91, 48, 27",
+    "fifth": "55",
+    "sixth": "02, 47, 63",
+    "seventh": "66",
+    "eighth": "04"
   }
 ]
