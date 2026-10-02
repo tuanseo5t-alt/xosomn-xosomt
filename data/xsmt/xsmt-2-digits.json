@@ -193529,5 +193529,31 @@
     "sixth": "12, 87, 86",
     "seventh": "81",
     "eighth": "05"
+  },
+  {
+    "date": "2026-10-02",
+    "station": "Gia Lai",
+    "special": "48",
+    "first": "67",
+    "second": "44",
+    "third": "06, 11",
+    "fourth": "87, 99, 90, 68, 73, 21, 61",
+    "fifth": "16",
+    "sixth": "38, 09, 19",
+    "seventh": "33",
+    "eighth": "17"
+  },
+  {
+    "date": "2026-10-02",
+    "station": "Ninh Thuận",
+    "special": "03",
+    "first": "40",
+    "second": "40",
+    "third": "27, 99",
+    "fourth": "39, 34, 82, 82, 46, 19, 48",
+    "fifth": "77",
+    "sixth": "83, 86, 12",
+    "seventh": "52",
+    "eighth": "92"
   }
 ]
