@@ -193659,5 +193659,31 @@
     "sixth": "06, 31, 08",
     "seventh": "09",
     "eighth": "32"
+  },
+  {
+    "date": "2026-10-06",
+    "station": "Quảng Nam",
+    "special": "21",
+    "first": "82",
+    "second": "28",
+    "third": "00, 48",
+    "fourth": "28, 22, 61, 25, 76, 29, 42",
+    "fifth": "08",
+    "sixth": "25, 12, 99",
+    "seventh": "59",
+    "eighth": "84"
+  },
+  {
+    "date": "2026-10-06",
+    "station": "Đắk Lắk",
+    "special": "63",
+    "first": "94",
+    "second": "03",
+    "third": "62, 04",
+    "fourth": "26, 75, 71, 04, 23, 39, 13",
+    "fifth": "15",
+    "sixth": "88, 97, 59",
+    "seventh": "98",
+    "eighth": "98"
   }
 ]
