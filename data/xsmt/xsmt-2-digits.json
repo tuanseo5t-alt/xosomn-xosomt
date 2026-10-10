@@ -193776,5 +193776,44 @@
     "sixth": "92, 66, 89",
     "seventh": "28",
     "eighth": "87"
+  },
+  {
+    "date": "2026-10-10",
+    "station": "Quảng Ngãi",
+    "special": "63",
+    "first": "62",
+    "second": "52",
+    "third": "16, 37",
+    "fourth": "11, 68, 61, 70, 12, 69, 01",
+    "fifth": "28",
+    "sixth": "34, 41, 37",
+    "seventh": "74",
+    "eighth": "70"
+  },
+  {
+    "date": "2026-10-10",
+    "station": "Đà Nẵng",
+    "special": "14",
+    "first": "74",
+    "second": "17",
+    "third": "23, 89",
+    "fourth": "84, 90, 85, 25, 71, 80, 90",
+    "fifth": "50",
+    "sixth": "81, 42, 35",
+    "seventh": "66",
+    "eighth": "54"
+  },
+  {
+    "date": "2026-10-10",
+    "station": "Đắk Nông",
+    "special": "77",
+    "first": "46",
+    "second": "14",
+    "third": "62, 58",
+    "fourth": "68, 16, 19, 81, 21, 20, 15",
+    "fifth": "60",
+    "sixth": "87, 11, 48",
+    "seventh": "63",
+    "eighth": "97"
   }
 ]
