@@ -193906,5 +193906,31 @@
     "sixth": "07, 23, 30",
     "seventh": "90",
     "eighth": "39"
+  },
+  {
+    "date": "2026-10-14",
+    "station": "Khánh Hòa",
+    "special": "39",
+    "first": "26",
+    "second": "65",
+    "third": "49, 63",
+    "fourth": "61, 52, 79, 10, 29, 95, 12",
+    "fifth": "40",
+    "sixth": "76, 83, 86",
+    "seventh": "94",
+    "eighth": "43"
+  },
+  {
+    "date": "2026-10-14",
+    "station": "Đà Nẵng",
+    "special": "52",
+    "first": "29",
+    "second": "11",
+    "third": "24, 76",
+    "fourth": "74, 57, 91, 84, 03, 60, 09",
+    "fifth": "80",
+    "sixth": "74, 26, 36",
+    "seventh": "35",
+    "eighth": "54"
   }
 ]
