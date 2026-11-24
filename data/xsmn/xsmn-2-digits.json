@@ -276144,5 +276144,44 @@
     "sixth": "39, 97, 59",
     "seventh": "00",
     "eighth": "85"
+  },
+  {
+    "date": "2026-11-24",
+    "station": "Bạc Liêu",
+    "special": "78",
+    "first": "13",
+    "second": "76",
+    "third": "07, 59",
+    "fourth": "44, 93, 32, 46, 04, 68, 49",
+    "fifth": "71",
+    "sixth": "36, 25, 57",
+    "seventh": "17",
+    "eighth": "35"
+  },
+  {
+    "date": "2026-11-24",
+    "station": "Bến Tre",
+    "special": "32",
+    "first": "01",
+    "second": "18",
+    "third": "12, 64",
+    "fourth": "25, 97, 27, 73, 89, 68, 70",
+    "fifth": "99",
+    "sixth": "02, 04, 14",
+    "seventh": "53",
+    "eighth": "61"
+  },
+  {
+    "date": "2026-11-24",
+    "station": "Vũng Tàu",
+    "special": "19",
+    "first": "17",
+    "second": "39",
+    "third": "37, 29",
+    "fourth": "89, 41, 73, 04, 60, 48, 83",
+    "fifth": "70",
+    "sixth": "90, 67, 52",
+    "seventh": "17",
+    "eighth": "36"
   }
 ]
